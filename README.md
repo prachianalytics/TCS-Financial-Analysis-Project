@@ -18,4 +18,5 @@ A comprehensive five-year empirical study of Tata Consultancy Services Ltd (TCS)
 ## 💡 Key Insights
 * **Revenue:** Steady growth reaching ₹2,55,324 Cr in FY2025.
 * **Stability:** Maintained a healthy Net Margin (19%) and low Debt-to-Equity ratio.
-@financial-analysis
+
+
